@@ -2,7 +2,7 @@
 title = "hello zola"
 
 [taxonomies]
-categories = [""]
+categories = ["2023"]
 tags = ["zola"]
 +++
 
