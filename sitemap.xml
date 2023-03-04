@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://47deb043d.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://47deb043d.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://47deb043d.github.io/blog/hello-zola/</loc>
+        <lastmod>2023-01-11</lastmod>
+    </url>
+    <url>
+        <loc>https://47deb043d.github.io/categories/</loc>
+    </url>
+    <url>
+        <loc>https://47deb043d.github.io/categories/2023/</loc>
+    </url>
+    <url>
+        <loc>https://47deb043d.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://47deb043d.github.io/tags/zola/</loc>
+    </url>
+</urlset>
