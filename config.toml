@@ -41,8 +41,8 @@ links = [                             # Your links
 
 nav_separator = "::"
 
-display_id = true                     # Display your id on homepage
-projects_page = true                  # Display projects page
+display_id = false                     # Display your id on homepage
+projects_page = false                  # Display projects page
 blog_categorized = true               # Whether to categorize blog posts
 blur_effect = true                    # Whether to turn on blur effect on navigation bar
 
