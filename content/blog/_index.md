@@ -1,6 +1,6 @@
 +++
-title = "blog - 47deb043d"
-description = ""
+title = "47deb043d"
+description = "又一个 zola 小博客"
 sort_by = "date"
 template = "blog.html"
 page_template = "post.html"
