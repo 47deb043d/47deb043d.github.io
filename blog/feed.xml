@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
+	<title>47deb043d</title>
+	<subtitle>又一个 zola 小博客</subtitle>
+	<link href="https://47deb043d.github.io/blog/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://47deb043d.github.io/blog/"/>
+	<updated>2023-01-11T00:00:00+00:00</updated>
+	<id>https://47deb043d.github.io/blog/feed.xml</id>
+	<entry xml:lang="zh-cn">
+		<title>hello zola</title>
+		<published>2023-01-11T00:00:00+00:00</published>
+		<updated>2023-01-11T00:00:00+00:00</updated>
+		<link href="https://47deb043d.github.io/blog/hello-zola/" type="text/html"/>
+		<id>https://47deb043d.github.io/blog/hello-zola/</id>
+		<content type="html">&lt;p&gt;hello zola.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
